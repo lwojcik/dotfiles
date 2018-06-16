@@ -1,5 +1,5 @@
 # dotfiles
-My config files for different tools I use.
+My config files for different tools I use on Windows and Linux.
 
 ## Notes
 
